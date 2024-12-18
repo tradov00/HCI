@@ -29,6 +29,7 @@
 - Link to Assignment 2: [**Assignment 2**](https://github.com/tradov00/HCI/tree/main/assignments/assignment2) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](https://github.com/tradov00/assignment3) <!-- Replace with actual URL -->
 - Link to Assignment 4: [**Assignment 4**](https://github.com/tradov00/HCI/tree/main/assignments/assignment4) <!-- Replace with actual URL -->
+- Link to Assignment 5: [**Assignment 5**](https://github.com/tradov00/HCI/tree/main/assignments/assignment5) <!-- Replace with actual URL -->
 
 ## Project Requirements
 
