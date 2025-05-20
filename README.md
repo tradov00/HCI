@@ -20,7 +20,7 @@
 ### Semester Project
 
 - Link to your production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
-- Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
+- Link to your final report: [**Final Report**](https://www.notion.so/GreenBite-Report-1f861fbfb1a980648821e8a0a2f987fe?pvs=4) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
 ### Semester Assignments
@@ -28,8 +28,6 @@
 - Link to Assignment 1: [**Assignment 1**](https://github.com/tradov00/HCI/blob/main/assignments/assignment1/Assignment%201.mp4) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](https://github.com/tradov00/HCI/tree/main/assignments/assignment2) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](https://github.com/tradov00/assignment3) <!-- Replace with actual URL -->
-- Link to Assignment 4: [**Assignment 4**](https://github.com/tradov00/HCI/tree/main/assignments/assignment4) <!-- Replace with actual URL -->
-- Link to Assignment 5: [**Assignment 5**](https://github.com/tradov00/HCI/tree/main/assignments/assignment5) <!-- Replace with actual URL -->
 
 ## Project Requirements
 
