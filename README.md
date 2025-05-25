@@ -19,7 +19,7 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](https://greenbite-git-master-tradov00s-projects.vercel.app) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://greenbite-jndft106e-tradov00s-projects.vercel.app/) <!-- Replace with actual URL -->
 - Link to your final report: [**Final Report**](https://www.notion.so/GreenBite-Report-1f861fbfb1a980648821e8a0a2f987fe?pvs=4) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
